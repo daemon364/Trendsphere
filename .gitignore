@@ -1,0 +1,23 @@
+# Node / Build
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and environment
+*.log
+.env
+.env.local
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*.bak
+*.tmp
+
