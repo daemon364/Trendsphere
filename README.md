@@ -27,5 +27,5 @@ Coming soon on Netlify / Vercel
 
 ---
 
-👨‍💻 Developed by [Your Name]  
-📧 Contact: your@email.com
+👨‍💻 Developed by [HAmmed AL-ameen Olanrewaju]  
+📧 Contact: alameenhammed944@gmail.com
